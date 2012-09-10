@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.2.2" timestamp="2012-09-10T16:25:48.092">
+<file name="D:\Workspaces\workspaceLUTECE\module-crm-mylutecedirectory\src\java\fr\paris\lutece\plugins\crm\modules\mylutecedirectory\service\MyLuteceDirectoryUserService.java">
+<violation beginline="34" endline="185" begincolumn="1" endcolumn="3" rule="ExcessiveImportsRule" ruleset="Lutece Rules" package="fr.paris.lutece.plugins.crm.modules.mylutecedirectory.service" priority="3">
+A high number of imports can indicate a high degree of coupling within an object.
+</violation>
+</file>
+</pmd>
